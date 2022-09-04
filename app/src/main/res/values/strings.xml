@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit Post Request</string>
+    <string name="enter_total_trips">Enter Total Trips</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
